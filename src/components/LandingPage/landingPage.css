@@ -1,0 +1,9 @@
+.landing-page-assets {
+  display: flex;
+  flex-direction: row;
+}
+
+.lurry-image {
+  width: 1000px;
+  height: 900px;
+}
