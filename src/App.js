@@ -1,4 +1,5 @@
 import Navigation from "./components/Navigation/Navigation";
+import "./app.css";
 
 function App() {
   return (
